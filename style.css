@@ -54,3 +54,5 @@ a { color: var(--ink); }
 .links { text-align: center; font-size: 15px; }
 footer { text-align: center; color: var(--ink-soft); font-size: 14px; margin-top: 28px; }
 .version { font-size: 12px; opacity: 0.7; font-variant-numeric: tabular-nums; }
+.capture { display: block; margin: 24px auto 0; width: 260px; height: auto; border-radius: 34px; box-shadow: 0 16px 40px rgba(0,0,0,.45); }
+span.button { cursor: default; }
